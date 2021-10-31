@@ -1,0 +1,38 @@
+#header
+{
+    background:#313c4e;;
+}
+
+#header h1
+{
+    color: white;
+}
+#header h3
+{
+    color:#419199;
+}
+#header p
+{
+    color:white;
+}
+
+#contacts
+{
+    background-color: #222a33;
+}
+#contacts a
+{
+    color: white;
+}
+#main-content h2 
+{ 
+    color:#25575c ;
+}
+#left-content span
+{
+    color:#377278;
+}
+#right-content p
+{
+    color:#4e4a4a ;
+}
